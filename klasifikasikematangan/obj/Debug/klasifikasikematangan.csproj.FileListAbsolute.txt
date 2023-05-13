@@ -7,3 +7,14 @@ D:\visualstudio\klasifikasikematangan\klasifikasikematangan\obj\Debug\klasifikas
 D:\visualstudio\klasifikasikematangan\klasifikasikematangan\obj\Debug\klasifikasikematangan.csproj.GenerateResource.Cache
 D:\visualstudio\klasifikasikematangan\klasifikasikematangan\obj\Debug\klasifikasikematangan.exe
 D:\visualstudio\klasifikasikematangan\klasifikasikematangan\obj\Debug\klasifikasikematangan.pdb
+D:\code\fe\visual studio\pcd__uts\C-Sharp__pcd-uts\klasifikasikematangan\bin\Debug\klasifikasikematangan.exe.config
+D:\code\fe\visual studio\pcd__uts\C-Sharp__pcd-uts\klasifikasikematangan\bin\Debug\klasifikasikematangan.exe
+D:\code\fe\visual studio\pcd__uts\C-Sharp__pcd-uts\klasifikasikematangan\bin\Debug\klasifikasikematangan.pdb
+D:\code\fe\visual studio\pcd__uts\C-Sharp__pcd-uts\klasifikasikematangan\obj\Debug\klasifikasikematangan.csproj.AssemblyReference.cache
+D:\code\fe\visual studio\pcd__uts\C-Sharp__pcd-uts\klasifikasikematangan\obj\Debug\klasifikasikematangan.csproj.SuggestedBindingRedirects.cache
+D:\code\fe\visual studio\pcd__uts\C-Sharp__pcd-uts\klasifikasikematangan\obj\Debug\klasifikasikematangan.Form1.resources
+D:\code\fe\visual studio\pcd__uts\C-Sharp__pcd-uts\klasifikasikematangan\obj\Debug\klasifikasikematangan.Properties.Resources.resources
+D:\code\fe\visual studio\pcd__uts\C-Sharp__pcd-uts\klasifikasikematangan\obj\Debug\klasifikasikematangan.csproj.GenerateResource.cache
+D:\code\fe\visual studio\pcd__uts\C-Sharp__pcd-uts\klasifikasikematangan\obj\Debug\klasifikasikematangan.csproj.CoreCompileInputs.cache
+D:\code\fe\visual studio\pcd__uts\C-Sharp__pcd-uts\klasifikasikematangan\obj\Debug\klasifikasikematangan.exe
+D:\code\fe\visual studio\pcd__uts\C-Sharp__pcd-uts\klasifikasikematangan\obj\Debug\klasifikasikematangan.pdb
