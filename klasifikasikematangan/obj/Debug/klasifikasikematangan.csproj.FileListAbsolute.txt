@@ -1,0 +1,9 @@
+D:\visualstudio\klasifikasikematangan\klasifikasikematangan\bin\Debug\klasifikasikematangan.exe.config
+D:\visualstudio\klasifikasikematangan\klasifikasikematangan\bin\Debug\klasifikasikematangan.exe
+D:\visualstudio\klasifikasikematangan\klasifikasikematangan\bin\Debug\klasifikasikematangan.pdb
+D:\visualstudio\klasifikasikematangan\klasifikasikematangan\obj\Debug\klasifikasikematangan.csprojResolveAssemblyReference.cache
+D:\visualstudio\klasifikasikematangan\klasifikasikematangan\obj\Debug\klasifikasikematangan.Form1.resources
+D:\visualstudio\klasifikasikematangan\klasifikasikematangan\obj\Debug\klasifikasikematangan.Properties.Resources.resources
+D:\visualstudio\klasifikasikematangan\klasifikasikematangan\obj\Debug\klasifikasikematangan.csproj.GenerateResource.Cache
+D:\visualstudio\klasifikasikematangan\klasifikasikematangan\obj\Debug\klasifikasikematangan.exe
+D:\visualstudio\klasifikasikematangan\klasifikasikematangan\obj\Debug\klasifikasikematangan.pdb
